@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "YOVI",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -27,7 +27,7 @@
     ],
     "homepage": "https://github.com/Guru322/GURU-BOT",
     "author": {
-        "name": "GURU"
+        "name": "YOVI"
     },
     "repository": {
         "type": "git",
