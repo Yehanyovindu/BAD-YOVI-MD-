@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GROUPS
+≡  *GURU and YOVI  ┃ ᴮᴼᵀ*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support
@@ -11,12 +11,13 @@ https://chat.whatsapp.com/LwLQab5mZVW6WWRbBPnDGC
 
 ▢ Group 3
 https://chat.whatsapp.com/Jn9qVerYN6Q1L0vlVFe2XL
-
+◾Group 4
+https://chat.whatsapp.com/CQBjpBKcUiW9IU25RQmBgf
 ─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+ https://chat.whatsapp.com/CQBjpBKcUiW9IU25RQmBgf
 ─────────────
 ▢ *Owner Telegram*
  https://t.me/i_want_to_be_isekaied
