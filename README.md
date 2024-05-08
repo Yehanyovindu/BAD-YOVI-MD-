@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="YOVI" height="300" src="https://telegra.ph/file/b6f55e1e803f0055589a9.jpg">
+    <img alt="YOVI" height="300" src="https://telegra.ph/file/1f3ac86217d473866939e.jpg">
     <h1 align="center">YOVI-BOT</h1>
   </a>
 </p>
